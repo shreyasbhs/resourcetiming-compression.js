@@ -28,7 +28,7 @@
     /**
      * Should hostnames in the compressed trie be reversed or not
      */
-    ResourceTimingCompression.HOSTNAMES_REVERSED = true;
+    ResourceTimingCompression.HOSTNAMES_REVERSED = false;
 
     /**
      * Initiator type map
